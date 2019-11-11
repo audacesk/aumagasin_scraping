@@ -1,0 +1,1 @@
+The goal of this project is to automate a Python script allowing the user to get an excel files with all stores (names, physical address and categorie) registered in a list of given French department. Stores will be rank by city, departement and region.
